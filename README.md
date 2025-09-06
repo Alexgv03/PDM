@@ -1,3 +1,3 @@
 # PDM
-Programación de Dispositivos Móviles
-Repositorio para subir todas las tareas de la materia
+Programación de Dispositivos Móviles (br /)
+Rama de la tarea 1.
