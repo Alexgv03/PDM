@@ -1,3 +1,3 @@
 # PDM
-Programación de Dispositivos Móviles (br /)
+Programación de Dispositivos Móviles <br />
 Rama de la tarea 1.
