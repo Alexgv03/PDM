@@ -7,5 +7,5 @@ Para poder ver las tareas: <br />
 *Tercero, Darle click izquierdo al simbolo de descargar archivo. <br />
 *Cuarto, descomprimir el archivo ".zip". <br />
 *Quinto, abrir Android Studio, y en la pestaña proyectos, hacerle click a "open", y de ahí buscar la carpeta surgida de descomprimir el ".zip" (En este caso, la carpeta "donutWoryy"). <br />
-*Y por último como buen libro de cocina, ejecutarlo y a disfrutar.
+*Y por último como buen libro de cocina, ejecutarlo y a disfrutar. <br />
 Este trabajo fue hecho por Diana Sofía Cruz Aguirre y Brayan Alexis Gallardo Valdez
